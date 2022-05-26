@@ -1,6 +1,1 @@
 package giuplus
-
-import (
-	_ "github.com/AllenDang/giu"
-	_ "github.com/AllenDang/imgui-go"
-)
